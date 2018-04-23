@@ -1,4 +1,4 @@
 ### Rematch demo
 
-trying out framework
+trying out framework wrapper
 https://rematch.gitbooks.io/rematch/#examples
